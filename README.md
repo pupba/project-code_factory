@@ -6,3 +6,4 @@ Every day make a new code!
 - 04.02 studyCondition, studyLoop - Python
 - 04.03 studyFuction - Python
 - 04.04 apple.py - Python
+- 04.05 makewikipage.py - Python
