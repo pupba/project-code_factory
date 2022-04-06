@@ -7,3 +7,5 @@ Every day make a new code!
 - 04.03 studyFuction - Python
 - 04.04 apple.py - Python
 - 04.05 makewikipage.py - Python
+- 04.06 makeCategoryDict.py - Python
+- 04.07 makeImg2PDF.py - Python
