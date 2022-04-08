@@ -10,3 +10,4 @@ Every day make a new code!
 - 04.06 makeCategoryDict.py - Python
 - 04.07 makeImg2PDF.py - Python
 - 04.08 BearAndFish2.java - Java
+- 04.09 LinearRegression.py - Python
