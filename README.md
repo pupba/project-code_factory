@@ -11,8 +11,10 @@ Every day make a new code!
 - 04.07 makeImg2PDF.py - Python
 - 04.08 BearAndFish2.java - Java
 - 04.09 LinearRegression.py - Python
-- 04.10 index.html - html
+- 04.10 index.html - HTML
 - 04.11 StackApp.java - Java
 - 04.12 pandasStudy.py - Python
 - 04.13 pandasStudy2.py - Python
 - 04.14 DictionaryApp.java - Java
+- 04.15 App.js - JavaScript
+- 04.16 xmas.html - HTML
