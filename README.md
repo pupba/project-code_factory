@@ -18,3 +18,6 @@ Every day make a new code!
 - 04.14 DictionaryApp.java - Java
 - 04.15 App.js - JavaScript
 - 04.16 xmas.html - HTML
+- 04.17 QuizPython.py - Python
+- 04.18 pandasStudy3.py - Python
+- 04.19 randomModuleQuiz.py - Python
