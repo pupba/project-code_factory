@@ -21,3 +21,7 @@ Every day make a new code!
 - 04.17 QuizPython.py - Python
 - 04.18 pandasStudy3.py - Python
 - 04.19 randomModuleQuiz.py - Python
+- 04.20 pythonQuiz1.py - Python
+- 04.21 pythonQuiz2.py - Python
+- 04.22 pythonQuiz3.py - Python
+- 04.23 pythonQuiz4.py - Python
