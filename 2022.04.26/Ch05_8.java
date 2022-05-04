@@ -1,15 +1,3 @@
-/**
- * 
- */
-
-/**
- * @ÆÄÀÏ¸í : Ch05_5.java
- * @ÇÁ·ÎÁ§Æ®¸í : StudyClass
- * @³¯Â¥ : 2022. 4. 8.
- * @ÀÛ¼ºÀÚ : Á¤±¤¿ø
- * @ÇÁ·Î±×·¥¼³¸í : 
- */
-
 class Point{
 	private int x,y;
 	public Point(int x,int y) {this.x =x; this.y = y;}
@@ -26,7 +14,7 @@ class PositivePoint extends Point{
 		if(x <0 && y <0) super.move(0, 0);
 	}
 	public String toString() {
-		String str = "("+Integer.toString(getX())+","+Integer.toString(getY())+")ÀÇ Á¡";
+		String str = "("+Integer.toString(getX())+","+Integer.toString(getY())+")ì˜ ì ";
 		return str;
 	}
 	public void move(int x,int y) {
@@ -39,11 +27,11 @@ public class Ch05_8 {
 	public static void main(String[] args) {
 		PositivePoint p = new PositivePoint();
 		p.move(10,10);
-		System.out.println(p.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p.toString()+"ìž…ë‹ˆë‹¤.");
 		p.move(-5,5);
-		System.out.println(p.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p.toString()+"ìž…ë‹ˆë‹¤.");
 		PositivePoint p2 = new PositivePoint(-10,-10);
-		System.out.println(p2.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p2.toString()+"ìž…ë‹ˆë‹¤.");
 		
 	}
 
