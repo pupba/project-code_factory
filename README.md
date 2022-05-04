@@ -25,3 +25,8 @@ Every day make a new code!
 - 04.21 pythonQuiz2.py - Python
 - 04.22 pythonQuiz3.py - Python
 - 04.23 pythonQuiz4.py - Python
+- 04.24 irisChart.py - Python
+- 04.25 Ch06_2.java - Java
+- 04.26 Ch05_1_2.java, Ch05_5.java, Ch05_6.java, Ch05_7.java, Ch05_8.java - Java
+- 04.27 Ch07_3.java - Java
+- 04.28 ClassManagement.java - Java
