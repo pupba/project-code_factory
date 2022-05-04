@@ -1,14 +1,3 @@
-/**
- * 
- */
-
-/**
- * @ÆÄÀÏ¸í : Ch05_1_2.java
- * @ÇÁ·ÎÁ§Æ®¸í : StudyClass
- * @³¯Â¥ : 2022. 4. 8.
- * @ÀÛ¼ºÀÚ : Á¤±¤¿ø
- * @ÇÁ·Î±×·¥¼³¸í : 
- */
 class TV{
 	private int size;
 	public TV(int size) {this.size =size;}
@@ -17,11 +6,11 @@ class TV{
 class ColorTV extends TV{
 	private int color;
 	ColorTV(int size, int color){
-		super(size); // ºÎ¸ğ °´Ã¼¿¡ size Àü´Ş
+		super(size); // ë¶€ëª¨ ê°ì²´ì— size ì „ë‹¬
 		this.color = color;
 	}
 	public void printProperty() {
-		System.out.printf("%dÀÎÄ¡ %dÄÃ·¯%n",getSize(),this.color);
+		System.out.printf("%dì¸ì¹˜ %dì»¬ëŸ¬%n",getSize(),this.color);
 	}
 }
 public class Ch05_1_2 {
