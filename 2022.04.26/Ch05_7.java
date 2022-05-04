@@ -1,15 +1,3 @@
-/**
- * 
- */
-
-/**
- * @ÆÄÀÏ¸í : Ch05_5.java
- * @ÇÁ·ÎÁ§Æ®¸í : StudyClass
- * @³¯Â¥ : 2022. 4. 8.
- * @ÀÛ¼ºÀÚ : Á¤±¤¿ø
- * @ÇÁ·Î±×·¥¼³¸í : 
- */
-
 class Point{
 	private int x,y;
 	public Point(int x,int y) {this.x =x; this.y = y;}
@@ -24,7 +12,7 @@ class Point3D extends Point{
 		this.z = z;
 	}
 	public String toString() {
-		String str = "("+Integer.toString(getX())+","+Integer.toString(getY())+","+Integer.toString(this.z)+")ÀÇ Á¡";
+		String str = "("+Integer.toString(getX())+","+Integer.toString(getY())+","+Integer.toString(this.z)+")ì˜ ì ";
 		return str;
 	}
 	public void moveUp() {
@@ -42,15 +30,15 @@ public class Ch05_7 {
 
 	public static void main(String[] args) {
 		Point3D p = new Point3D(1,2,3);
-		System.out.println(p.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p.toString()+"ì…ë‹ˆë‹¤.");
 		
 		p.moveUp(); 
-		System.out.println(p.toString() + "ÀÔ´Ï´Ù.");
+		System.out.println(p.toString() + "ì…ë‹ˆë‹¤.");
 		p.moveDown();
 		p.move(10,10);
-		System.out.println(p.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p.toString()+"ì…ë‹ˆë‹¤.");
 		p.move(100,200,300);
-		System.out.println(p.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(p.toString()+"ì…ë‹ˆë‹¤.");
 	}
 
 }
