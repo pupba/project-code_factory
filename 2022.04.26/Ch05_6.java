@@ -1,15 +1,3 @@
-/**
- * 
- */
-
-/**
- * @ÆÄÀÏ¸í : Ch05_5.java
- * @ÇÁ·ÎÁ§Æ®¸í : StudyClass
- * @³¯Â¥ : 2022. 4. 8.
- * @ÀÛ¼ºÀÚ : Á¤±¤¿ø
- * @ÇÁ·Î±×·¥¼³¸í : 
- */
-
 class Point{
 	private int x,y;
 	public Point(int x,int y) {this.x =x; this.y = y;}
@@ -38,7 +26,7 @@ class ColorPoint extends Point{
 		this.color = color;
 	}
 	public String toString() {
-		String str = this.color + "»öÀÇ ("+Integer.toString(getX())+","+Integer.toString(getY())+")ÀÇ Á¡";
+		String str = this.color + "ìƒ‰ì˜ ("+Integer.toString(getX())+","+Integer.toString(getY())+")ì˜ ì ";
 		return str;
 	}
 }
@@ -46,12 +34,12 @@ public class Ch05_6 {
 
 	public static void main(String[] args) {
 		ColorPoint zeroPoint = new ColorPoint();
-		System.out.println(zeroPoint.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(zeroPoint.toString()+"ì…ë‹ˆë‹¤.");
 		
 		ColorPoint cp = new ColorPoint(10,10);
 		cp.setXY(5, 5);
 		cp.setColor("RED");
-		System.out.println(cp.toString()+"ÀÔ´Ï´Ù.");
+		System.out.println(cp.toString()+"ì…ë‹ˆë‹¤.");
 	}
 
 }
