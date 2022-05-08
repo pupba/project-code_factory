@@ -30,3 +30,5 @@ Every day make a new code!
 - 04.26 Ch05_1_2.java, Ch05_5.java, Ch05_6.java, Ch05_7.java, Ch05_8.java - Java
 - 04.27 Ch07_3.java - Java
 - 04.28 ClassManagement.java - Java
+- 04.29 pythonClassStudy1.py - Python
+- 04.30 pythonClassStudy2.py - Python
