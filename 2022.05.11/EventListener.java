@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-public class EventListen extends JFrame implements ActionListener {
+public class EventListener extends JFrame implements ActionListener {
 	private JLabel label = new JLabel("10");
 	public EventListen() {
 		setTitle("Action 이벤트 리스터 예제");
@@ -40,6 +40,6 @@ public class EventListen extends JFrame implements ActionListener {
 		this.label.setText(num);
 	}
 	public static void main(String[] args) {
-		new EventListen();
+		new EventListener();
 	}
 }
