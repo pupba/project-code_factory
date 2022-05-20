@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 public class EventListener extends JFrame implements ActionListener {
 	private JLabel label = new JLabel("10");
-	public EventListen() {
+	public EventListener() {
 		setTitle("Action 이벤트 리스터 예제");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		Container c = getContentPane();
