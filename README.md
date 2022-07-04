@@ -1,6 +1,6 @@
 # project-code_factory
-Every day make a new code!
-## 매일 매일 코딩하기!
+# My Code Storage!
+## 코드 저장소
 ### 2022 start 04.01
 - 04.01 SongManager.java - Java
 - 04.02 studyCondition, studyLoop - Python
